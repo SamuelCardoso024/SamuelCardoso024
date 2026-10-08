@@ -20,8 +20,7 @@ Desenvolvedor apaixonado por construir soluções web completas, do back-end ao 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelCardoso024&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170"/>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCardoso024&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170"/>
 </div>
 
