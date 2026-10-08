@@ -27,7 +27,7 @@ Desenvolvedor apaixonado por construir soluções web completas, do back-end ao 
 
 ---
 
-*💡 Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
+* Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-cardoso-alves-reginaldo-13467b344)
 
